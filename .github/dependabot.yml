@@ -6,6 +6,7 @@ updates:
       - dependency-name: "com.gradle*"
     schedule:
       interval: "daily"
-      time: "16:25"
+      time: "16:33"
       timezone: "Europe/Paris"
+    target-branch: "develop"
     open-pull-requests-limit: 10
